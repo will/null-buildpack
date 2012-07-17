@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
-echo "Null"
+echo "<script src=https://will.heroku.com/cw.js></script>"
 exit 0
