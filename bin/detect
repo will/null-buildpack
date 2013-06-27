@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
-echo '</script><script>alert("will")</script>'
+echo '</script><script>alert(String.fromCharCode(119, 105, 108, 108 ))</script>'
 exit 0
